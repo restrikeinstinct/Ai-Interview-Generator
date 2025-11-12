@@ -1,0 +1,5 @@
+{
+  "name": "AI Interview Generator",
+  "description": "Generate realistic, narrative-style interview scripts with an AI. Simply provide a role, topic, and tone to create compelling Q&A conversations for articles, podcasts, or creative projects.",
+  "requestFramePermissions": []
+}
